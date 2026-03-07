@@ -369,8 +369,8 @@ section {
   }
 
   .right img {
-    width: 480%;
-    max-width: 650px;
+    width: 310%;
+    max-width: 450px;
     height: auto;
   }
 
@@ -411,4 +411,3 @@ section {
   background: #333;
   transform: translateY(-3px);
 }
-
